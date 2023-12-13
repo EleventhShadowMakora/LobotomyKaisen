@@ -20,7 +20,7 @@ for x in temp:
         final.append(temp[i])
     if (j%3==0):
         temp.pop(i)
-        j+=1
+           j+=1
 
 n1 = random.randint(0,len(choose)-1)
 n2 = random.randint(0,len(choose)-1)
